@@ -21,9 +21,9 @@ Hi there! My name is Jack Ross and I'm a Lambda School Data Science student with
 ## Skills
 
 <b>Languages</b>: Python, SQL, HTML/CSS, Dart (Flutter), Solidity, Linux, OOP/Agile</br>
-Data Tools: NumPy, Pandas,  Matplotlib, Plotly, FastAPI, spaCy</br>
-ML: Keras, TensorFlow, OpenCV, Scikit-learn, FastAI, DialogFlow</br>
-Database/Hosting: AWS / Elastic Beanstalk, Heroku, Firebase, PostgreSQL, MongoDB
+<b>Data Tools</b>: NumPy, Pandas,  Matplotlib, Plotly, FastAPI, spaCy</br>
+<b>ML</b>: Keras, TensorFlow, OpenCV, Scikit-learn, FastAI, DialogFlow</br>
+<b>Database/Hosting</b>: AWS / Elastic Beanstalk, Heroku, Firebase, PostgreSQL, MongoDB
 
 ## Where to find me! 🔭
 
