@@ -31,3 +31,4 @@ Database/Hosting: AWS / Elastic Beanstalk, Heroku, Firebase, PostgreSQL, MongoDB
 [Twitter](https://twitter.com/JackRossML) - For tech news and project updates!</br>
 [Portfolio](https://jackrossprojects.com) - Where my most of my work lives!</br>
 [LinkedIn](https://www.linkedin.com/in/jackcalvinross/) - Connect with me on LinkedIn!
+[YouTube](https://www.youtube.com/channel/UC50JofjMZpr3KCbOx6dHi_A) - Board Sports and Tech videos!
