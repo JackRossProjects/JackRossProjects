@@ -25,7 +25,7 @@ Hi there! My name is Jack Ross and I'm a Lambda School Data Science student with
 <b>ML</b>: Keras, TensorFlow, OpenCV, Scikit-learn, FastAI, DialogFlow</br>
 <b>Database/Hosting</b>: AWS / Elastic Beanstalk, Heroku, Firebase, PostgreSQL, MongoDB
 
-## Where to find me! 🔭
+## Where to find me online! 🔭
 
 [Medium](https://medium.com/@jackross210) - All of my published articles!</br>
 [Twitter](https://twitter.com/JackRossML) - For tech news and project updates!</br>
