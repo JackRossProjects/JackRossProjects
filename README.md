@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there! My name is Jack Ross and I'm a Lambda School Data Science student with a passion for self driving cars, cryptocurrency, skating and snowboarding!
+Hi there! My name is Jack Ross and I'm a Data Scientist with a passion for self driving cars, cryptocurrency, skating and snowboarding!
 
 ## Skills
 
